@@ -1,5 +1,8 @@
-### 个人参与社区审计竞赛完成的审计报告
+### Audit report completed by individual participation in community audit competition
 
-EarlyMintAudit_report.pdf - nft, Presale, Airdropper
-RaisinLabs_report - DividendPayingToken, Presale, Airdropper - 200 USD
-diva_report - EIP-712, Minimal proxy (EIP-1167), Diamond Standard (EIP-2535), DeFi - 300USD
+
+    |     Protocol    |   feature                                                                |  bounty USD |
+    | --------        | -----:                                                                   | :----:      |
+    | EarlyMintAudit  | nft, Presale, Airdropper                                                 |   0 USD     |
+    | RaisinLabs      | DividendPayingToken, Presale, Airdropper                                 |   200 USD   |
+    | DIVA            | EIP-712, Minimal proxy (EIP-1167), Diamond Standard (EIP-2535), DeFi     |   300USD    |
